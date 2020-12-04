@@ -1,0 +1,17 @@
+  body {
+    background-color: lavender;
+  }
+
+  h1 {color: #52057b
+      }
+
+  h3 {color: #52057b
+  }
+
+
+  hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    }
